@@ -1,16 +1,16 @@
 {
   "name": "btoa",
-  "homepage": "https://github.com/coolaj86/node-browser-compat",
+  "homepage": "https://git.coolaj86.com/coolaj86/btoa.js.git",
   "description": "btoa for Node.JS (it's a one-liner)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/coolaj86/node-browser-compat.git"
+    "url": "git://git.coolaj86.com/coolaj86/btoa.js.git",
   },
   "keywords": [
     "btoa",
     "browser"
   ],
-  "author": "AJ ONeal <coolaj86@gmail.com> (http://coolaj86.info)",
+  "author": "AJ ONeal <coolaj86@gmail.com> (https://coolaj86.com)",
   "engines": {
     "node": ">= 0.4.0"
   },
@@ -18,6 +18,6 @@
     "btoa": "bin/btoa.js"
   },
   "main": "index",
-  "license": "Apache-2.0",
-  "version": "1.1.2"
+  "license": "(MIT OR Apache-2.0)",
+  "version": "1.2.0"
 }
