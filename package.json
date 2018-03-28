@@ -4,7 +4,7 @@
   "description": "btoa for Node.JS (it's a one-liner)",
   "repository": {
     "type": "git",
-    "url": "git://git.coolaj86.com/coolaj86/btoa.js.git",
+    "url": "git://git.coolaj86.com/coolaj86/btoa.js.git"
   },
   "keywords": [
     "btoa",
@@ -19,5 +19,5 @@
   },
   "main": "index",
   "license": "(MIT OR Apache-2.0)",
-  "version": "1.2.0"
+  "version": "1.2.1"
 }
